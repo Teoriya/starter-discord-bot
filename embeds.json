@@ -1,0 +1,56 @@
+{
+    "modmailembedsmain":[
+        {
+            "title": "👋 Hey, This is Among Us India ModMail",
+            "description": "The messages you send me *(including the one you just sent)* will be visible to all the moderators of **Among Us India**. I will DM you back when they reply.\n",
+            "color": 3092790,
+            "fields": []
+        },
+        {
+            "description": "> ❔ **If you have a question** please ask what your question is if you haven't already. The moderators are volunteers and can only help you with questions related to the server or the events happening in it. \n\n> 🛡️ **If you want to report someone** please provide the user ID and proof of the rule-breaking if you haven't already.\n\n> ✅ **If you find the answer to your question or no longer want to report someone** before a moderator has had the time to look at your message, please just say \"I no longer need help\" so we can close your help request.\n",
+            "color": 3092790,
+            "fields": []
+        },
+        {
+            "description": " Please keep chatter to a minimum and focus on what you like to ask or report. Messages unrelated to the above options can get very spammy and hard to manage. As a result, we may take action against you for abusing modmail.",
+            "color": 3092790,
+            "fields": [],
+            "title": "⚠️ Warning "
+        },
+        {
+            "title": "Please select one of the following options.",
+            "description": "",
+            "color": 3092790,
+            "fields": []
+        }
+    ],
+    "modmailfirstreply": [
+        {
+          "title": "Among Us India Support",
+          "description": "**Please write a description of the issue below.**\n\nIf you do not get the answer right away. Please allow for some time as staff look further into the situation.\n\n**Please note that we will not be able to help you if you do not provide a description of the issue.**",
+          "color": 3092790
+        }
+      ],
+      "modmailreplyedit": [
+        {
+          "title": "Support Ticket Created",
+          "description": "What’s up!\n\nWe just wanted to confirm that we’ve received your message. Our support team will tackle your request as soon as they can get to it. We appreciate your patience.\n\nCheers!\nAmong Us India Staff Team",
+          "color": 3092790,
+          "footer": {
+            "text": "•  A ✅ corresponds to our Support Team receiving your message."
+          }
+        }
+      ],
+      "modmailclosed": [
+        {
+            "fields": [],
+            "title": "Support Ticket Closed",
+            "description": "Thank you for messaging Among Us India Support. Hope we answered your questions. If you have any more questions, feel free to DM us again!",
+            "color": 3092790,
+            "footer": {
+                "text": "Replying will create a new thread."
+            }
+        }
+    ]
+
+}
